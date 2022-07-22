@@ -1,11 +1,11 @@
-## React Native Seattle
+# React Native Seattle
 
-React Native Seattle is a diverse community of people. All are welcome, regardless of skill level or experience. If you live in the area and have an interest in React Native, please join us!
+Hi 👋 ! Welcome to the React Native Seattle community!
 
-We host free, in-person events every 3 months. You’ll meet people and make connections, share technology & ideas, and learn.
+We are a diverse group of people, and all are welcome, regardless of skill level or experience. If you live in the area and have an interest in React Native, please join us!
 
-Between meetups, you can find the community on Discord, Twitter, and the web.
+We host free, in-person events periodically. You’ll meet people, make connections, share technology & ideas, and learn.
 
-### Code of Conduct
+Between meetups, you can find the community on [Discord](https://discord.gg/Yh4uhUbKj6). We also post on [Twitter](https://twitter.com/RNSeattle).
 
-Coming soon
+We expect everyone to follow our [Code of Conduct](./CONDUCT.md) online and at events.
