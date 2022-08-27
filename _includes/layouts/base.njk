@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+
+	{% include "components/head.njk" %}
+
+	<body>
+
+		<main>
+			<img alt="Line drawing of a mountain with the space needle in the backgroud. The letters RN appear at the bottom. The react native logo is in a moon-like circle rising up from the mountain."
+				src="/static/img/logo.png" 
+				width="300px"/>
+
+			{{ layoutContent | safe }}
+		</main>
+
+		{% include "components/footer.njk" %}
+
+	</body>
+
+</html>

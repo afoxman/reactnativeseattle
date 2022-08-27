@@ -1,11 +1,7 @@
 # React Native Seattle
 
-Hi 👋 ! Welcome to the React Native Seattle community!
+Website project.
 
-We are a diverse group of people, and all are welcome, regardless of skill level or experience. If you live in the area and have an interest in React Native, please join us!
+Uses Eleventy as the site generator.
 
-We host free, in-person events periodically. You’ll meet people, make connections, share technology & ideas, and learn.
-
-Between meetups, you can find the community on [Discord](https://discord.gg/Yh4uhUbKj6). We also post on [Twitter](https://twitter.com/RNSeattle).
-
-We expect everyone to follow our [Code of Conduct](./CONDUCT.md) online and at events.
+Started from https://github.com/danurbanowicz/eleventy-netlify-boilerplate, and heavily modified.
